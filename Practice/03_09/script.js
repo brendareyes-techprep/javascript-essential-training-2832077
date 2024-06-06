@@ -23,4 +23,7 @@ const backpack = {
     this.strapLength.left = lengthLeft;
     this.strapLength.right = lengthRight;
   },
+  toggleColor: function (colorStatus) {
+    this.colorChange = colorStatus;
+  },
 };
