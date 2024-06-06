@@ -27,3 +27,4 @@ const backpack = {
     this.colorChange = colorStatus;
   },
 };
+console.log("The backpacks color is:", colorStatus);
